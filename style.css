@@ -1,1 +1,27 @@
+body{
+  font-family: Verdana, Helvetica, sans-serif;
+  color: green;
+}
 
+
+span{
+  background: yellow;
+  display: inline;
+}
+
+.inline{
+  display: inline;
+  background: lightblue;
+}
+
+img{
+  width:300px;
+  display: inline;
+}
+
+i{
+  display: inline;
+  background: red;
+  width: 80px;
+  height: 50px;
+}
